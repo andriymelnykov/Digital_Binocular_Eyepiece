@@ -7,3 +7,5 @@ It is meant as a part of EAA (Electronic Assisted Astronomy) rig and shows a dig
 See: https://www.cloudynights.com/topic/934172-my-dream-eaa-setup-with-digital-binocular-eyepiece/
 
 Assembly see: https://youtu.be/oHbajn1Z2BM
+
+Andriy Melnykov, 2024
