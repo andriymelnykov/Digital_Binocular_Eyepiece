@@ -1,0 +1,20 @@
+Display:
+ Waveshare Raspberry Pi 5.5inch 2K Capacitive Touch LCD Display, HDMI Interface, IPS Screen, 1440?2560
+ https://www.waveshare.com/5.5inch-1440x2560-lcd.htm
+
+Brightness adjustment modification:
+ 100k log potentiometer
+ Shaft: 6mm diameter, 9mm long
+ Mounting thread: 7mm diameter, 6mm long
+ Case: 17mm diameter, 9mm long
+
+ 73k resistor
+
+ 4k7 0603 SMD resistor
+
+ wires
+
+Lenses:
+ from Tasco binocular 10x25 #168RB or similar
+ 25.3mm diameter, ~90mm focal length
+ Rubber cups are reused

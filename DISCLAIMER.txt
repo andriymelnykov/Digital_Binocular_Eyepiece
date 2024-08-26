@@ -1,0 +1,4 @@
+The design is provided "as is" without warranty of any kind, express or implied.
+I am not responsible for any damage or harm that might occur from the use of the design.
+The user assumes all risks associated with the use of the design.
+I make no guarantees regarding patent rights, users are responsible for ensuring they are not infringing on any patents.
